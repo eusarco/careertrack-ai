@@ -126,9 +126,9 @@ careertrack-ai/
 
 | Member | Role |
 |--------|------|
-| [NAME 1] | Project Lead / Analyst & Documentation Lead |
-| [NAME 2] | Full-Stack Developer |
-| [NAME 3] | UI/UX Designer / Tester |
+| Edmund U. Sarco | Project Lead / Analyst & Documentation Lead |
+| John Rey M. Balitor | Full-Stack Developer |
+| Carmila J. Rosales | UI/UX Designer / Tester |
 
 _(Replace the bracketed names with the members' real names.)_
 
