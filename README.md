@@ -130,8 +130,6 @@ careertrack-ai/
 | John Rey M. Balitor | Full-Stack Developer |
 | Carmila J. Rosales | UI/UX Designer / Tester |
 
-_(Replace the bracketed names with the members' real names.)_
-
 ## License
 
 Created for academic purposes (IT415 coursework). Not intended for commercial use.
