@@ -129,7 +129,3 @@ careertrack-ai/
 | Edmund U. Sarco | Project Lead / Analyst & Documentation Lead |
 | John Rey M. Balitor | Full-Stack Developer |
 | Carmila J. Rosales | UI/UX Designer / Tester |
-
-## License
-
-Created for academic purposes (IT415 coursework). Not intended for commercial use.
